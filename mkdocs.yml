@@ -1,0 +1,46 @@
+site_name: Workmate Documentation
+# Repository information for GitHub Pages
+repo_url: https://github.com/yourusername/workmate-docs  # Replace with your actual GitHub repository URL
+repo_name: workmate-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: "#FF8C00"  # Dark orange
+      accent: "#FFA500"   # Standard orange
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: "#FF8C00"  # Dark orange
+      accent: "#FFA500"   # Standard orange
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+# extra
+extra_css:
+  - styles/custom.css
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Getting Started:
+    - How to Start a Chat: start_chat.md
+  - About:
+    - Updates: updates.md
+  - Help & Support: support.md
+
+# Plugins
+plugins:
+  - search

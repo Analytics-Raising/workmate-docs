@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# MkDocs build directory
+site/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo 

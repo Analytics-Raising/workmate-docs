@@ -1,0 +1,27 @@
+:root {
+    --md-primary-fg-color: #EA580C;
+    --md-primary-fg-color--light: #EA580C;
+    --md-default-fg-color--light: #f8f8f2;
+    --md-primary-fg-color--dark: #EA580C;
+    --md-default-bg-color--dark: #282a36;
+    --md-accent-fg-color: #EA580C;
+
+    /* Material Design depth variables */
+    --md-shadow-z1: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --md-shadow-z2: 0 4px 8px rgba(0, 0, 0, 0.12);
+    --md-shadow-z3: 0 8px 16px rgba(0, 0, 0, 0.14);
+    --md-shadow-z4: 0 16px 24px rgba(0, 0, 0, 0.16);
+    
+    /* Material Design spacing */
+    --md-spacing-xs: 0.25rem;
+    --md-spacing-sm: 0.5rem;
+    --md-spacing-md: 1rem;
+    --md-spacing-lg: 1.5rem;
+    --md-spacing-xl: 2.5rem;
+    
+    /* Material Design radius */
+    --md-radius-sm: 4px;
+    --md-radius-md: 8px;
+    --md-radius-lg: 16px;
+    --md-radius-xl: 24px;
+}
