@@ -7,10 +7,7 @@ __Created By:__ Juma Shafara Kibekityo
 
 ***
 
-
-
-
-## Starting a Chat
+## Starting and Closing a Chat
 You will start by signing in if you are not already logged in
 
 
