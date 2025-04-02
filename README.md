@@ -1,10 +1,10 @@
 # Workmate Documentation
 
-This repository contains the documentation for Workmate, built with [MkDocs](https://www.mkdocs.org/) and the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+This repository contains the documentation for Workmate
 
 ## Live Documentation
 
-The live documentation is available at: https://yourusername.github.io/workmate-docs/
+The live documentation is available at: https://analytics-raising.github.io/workmate-docs/
 
 ## Local Development
 
@@ -12,7 +12,7 @@ To set up the documentation site locally:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/workmate-docs.git
+   git clone https://github.com/Analytics-Raising/workmate-docs.git
    cd workmate-docs
    ```
 
