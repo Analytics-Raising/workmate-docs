@@ -1,6 +1,6 @@
 # Welcome to Workmate Documentation
 
-Welcome to the official documentation for Workmate, Raising the Village's internal knowledge assistant and productivity tool.
+Welcome to the official documentation for Workmate.
 
 ## What is Workmate?
 
@@ -19,13 +19,6 @@ New to Workmate? Check out these guides to get started:
 - [Common Questions](#) - See examples of questions you can ask Workmate
 - [Best Practices](#) - Tips for getting the most out of Workmate
 
-## Technical Overview
-
-Workmate is built with:
-
-- **Frontend**: React with Material UI
-- **Backend**: Django REST API
-- **AI Engine**: Custom language model trained on RTV's internal knowledge base
 
 ## Recent Updates
 
