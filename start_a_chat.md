@@ -9,8 +9,6 @@ __Created By:__ Juma Shafara Kibekityo
 ***
 
 
-
-
 ## # [Signin | RTV](https://workmate.dataidea.org/#/auth/signin)
 You will start by signing in if you are not already logged in
 

@@ -36,7 +36,8 @@ extra_css:
 nav:
   - Home: index.md
   - Getting Started:
-    - How to Start a Chat: start_chat.md
+    - How to Sign In: how_to_signin.md
+    - Chats in WorkMate: manage_chats.md
   - About:
     - Updates: updates.md
   - Help & Support: support.md
