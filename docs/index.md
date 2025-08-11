@@ -9,13 +9,13 @@ Workmate is an AI-powered assistant designed specifically for Raising the Villag
 ## Key Features
 
 - **AI-Powered Chat**: Ask questions about RTV in natural language and get intelligent responses
-- **Risk Assessment**: Access machine learning models for risk assessment analysis
+- **Risk Assessment**: Access results from machine learning models for risk assessment analysis
 
 ## Getting Started
 
 New to Workmate? Check out these guides to get started:
 
-- [How to Start a Chat](start_chat.md) - Learn how to sign in and start chatting with Workmate
+- [Chats in WorkMate](/manage_chats/) - Learn how to sign in and start chatting with Workmate
 - [Common Questions](#) - See examples of questions you can ask Workmate
 - [Best Practices](#) - Tips for getting the most out of Workmate
 
