@@ -7,9 +7,7 @@ WorkMate is Raising The Village’s integrated AI platform that unifies the orga
 
 **Key Features**
 
-* **RTV Knowledge Hub** – Central repository for program information, best practices, and resources across all departments.
-* **Retrieval Insights Engine** – AI-powered search and analytics for fast information retrieval and interpretation.
-* **Conversational Interface** – Chatbot providing human-like responses, data interpretation, and actionable insights.
+* **Conversational Interface** – Chatbot providing human-like responses, data interpretation, and actionable insights giving you access to program information, best practices, and resources across all departments.
 * **ML Interpretability Dashboard** – Visualizes model drivers, controllable factors, risk points, and generates explainability reports.
 * **Risk Assessment System** – Predicts households or clusters at risk of missing income targets, enabling early intervention.
 * **Real-time Predictions & Decision Support** – Provides immediate, data-driven insights to guide field operations.
