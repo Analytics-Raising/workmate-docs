@@ -2,22 +2,25 @@
 
 Welcome to the official documentation for Workmate.
 
-## What is Workmate?
+**What is WorkMate?**
+WorkMate is Raising The Village’s integrated AI platform that unifies the organization’s AI tools—such as the chatbot, machine learning interpretability dashboards, risk assessment models, low-tech communication systems, and image-based evaluation tools—into a single, centralized hub. It is designed to enhance decision-making, operational efficiency, and long-term impact in household graduation programs for last-mile communities.
 
-Workmate is an AI-powered assistant designed specifically for Raising the Village staff to quickly access internal knowledge, information, and resources. 
+**Key Features**
 
-## Key Features
-
-- **AI-Powered Chat**: Ask questions about RTV in natural language and get intelligent responses
-- **Risk Assessment**: Access results from machine learning models for risk assessment analysis
+* **RTV Knowledge Hub** – Central repository for program information, best practices, and resources across all departments.
+* **Retrieval Insights Engine** – AI-powered search and analytics for fast information retrieval and interpretation.
+* **Conversational Interface** – Chatbot providing human-like responses, data interpretation, and actionable insights.
+* **ML Interpretability Dashboard** – Visualizes model drivers, controllable factors, risk points, and generates explainability reports.
+* **Risk Assessment System** – Predicts households or clusters at risk of missing income targets, enabling early intervention.
+* **Real-time Predictions & Decision Support** – Provides immediate, data-driven insights to guide field operations.
 
 ## Getting Started
 
 New to Workmate? Check out these guides to get started:
 
-- [How to Signin](/how_to_signin/) - Learn how to sign in
+- [How to Signin](/how_to_signin/) - Learn how to sign in.
 - [Chats in WorkMate](/manage_chats/) - Start chatting with Workmate. Learn how to create, switch between and delete chats with our Question and Answer chatbot.
-- [Best Practices](#) - Tips for getting the most out of Workmate
+- [Best Practices](#) - Tips for getting the most out of Workmate.
 - [Support & Frequently Asked Questions](/support/)
 
 
