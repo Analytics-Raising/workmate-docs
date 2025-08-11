@@ -18,6 +18,7 @@ New to Workmate? Check out these guides to get started:
 - [How to Signin](/how_to_signin/) - Learn how to sign in
 - [Chats in WorkMate](/manage_chats/) - Start chatting with Workmate. Learn how to create, switch between and delete chats with our Question and Answer chatbot.
 - [Best Practices](#) - Tips for getting the most out of Workmate
+- [Support & Frequently Asked Questions](/support/)
 
 
 ## Recent Updates
