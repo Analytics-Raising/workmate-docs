@@ -15,8 +15,8 @@ Workmate is an AI-powered assistant designed specifically for Raising the Villag
 
 New to Workmate? Check out these guides to get started:
 
-- [Chats in WorkMate](/manage_chats/) - Learn how to sign in and start chatting with Workmate
-- [Common Questions](#) - See examples of questions you can ask Workmate
+- [How to Signin](/how_to_signin/) - Learn how to sign in
+- [Chats in WorkMate](/manage_chats/) - Start chatting with Workmate. Learn how to create, switch between and delete chats with our Question and Answer chatbot.
 - [Best Practices](#) - Tips for getting the most out of Workmate
 
 
