@@ -43,7 +43,7 @@ nav:
   - Model Interpretability:
     - Model Metrics: model_interpretability/model_metrics.md
     - Feature Importance: model_interpretability/feature_importance.md
-    
+    - Individual Predictions: model_interpretability/individual_prediction.md
   - Support & FAQs: support.md
   - About:
     - Updates: updates.md
