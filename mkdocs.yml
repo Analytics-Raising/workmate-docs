@@ -35,10 +35,12 @@ extra_css:
 # Navigation structure
 nav:
   - Home: index.md
-  - Getting Started:
-    - How to Sign In: how_to_signin.md
-    - Chats in WorkMate: manage_chats.md
-    - Support & FAQs: support.md
+  - How to Sign In: how_to_signin.md
+  - Chats in WorkMate: manage_chats.md
+  - Standard Evaluation:
+    - Predictions Dashboard: standard_evaluations/predictions_dashboard.md
+    - Cluster Trends: standard_evaluations/cluster_trends.md
+  - Support & FAQs: support.md
   - About:
     - Updates: updates.md
   - Help & Support: support.md
