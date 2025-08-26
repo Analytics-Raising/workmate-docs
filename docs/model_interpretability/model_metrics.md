@@ -4,7 +4,6 @@ This page displays model performance metrics at training. This is for transparen
 
 __Creation Date:__ Aug 26, 2025  
 __Created By:__ Juma Shafara Kibekityo  
-[View most recent version on Tango.ai](https://app.tango.us/app/workflow/94b91f49-052e-4ffc-a4ed-8fbf532d1779?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
 

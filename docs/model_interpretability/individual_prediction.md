@@ -4,7 +4,6 @@ This page allows you experiment with features to help you understand how changes
 
 __Creation Date:__ Aug 26, 2025  
 __Created By:__ Juma Shafara Kibekityo  
-[View most recent version on Tango.ai](https://app.tango.us/app/workflow/a03b924e-4ab4-41e9-8c41-7ca6e925febe?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
 

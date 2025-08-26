@@ -2,7 +2,6 @@
 
 __Creation Date:__ Aug 26, 2025  
 __Created By:__ Juma Shafara Kibekityo  
-[View most recent version on Tango.ai](https://app.tango.us/app/workflow/60ff9826-ec35-4904-a64b-334122a88091?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
 

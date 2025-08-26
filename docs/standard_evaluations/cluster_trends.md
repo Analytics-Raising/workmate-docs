@@ -4,7 +4,6 @@ The cluster trends page allows us to track the performance of the clusters at th
 
 __Creation Date:__ Aug 26, 2025  
 __Created By:__ Juma Shafara Kibekityo  
-[View most recent version on Tango.ai](https://app.tango.us/app/workflow/26a9a390-eeaf-4356-9b3c-4229178f7220?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 
 
