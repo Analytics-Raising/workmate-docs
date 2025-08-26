@@ -40,6 +40,10 @@ nav:
   - Standard Evaluation:
     - Predictions Dashboard: standard_evaluations/predictions_dashboard.md
     - Cluster Trends: standard_evaluations/cluster_trends.md
+  - Model Interpretability:
+    - Model Metrics: model_interpretability/model_metrics.md
+    - Feature Importance: model_interpretability/feature_importance.md
+    
   - Support & FAQs: support.md
   - About:
     - Updates: updates.md
