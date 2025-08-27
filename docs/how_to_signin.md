@@ -13,7 +13,11 @@ __Created By:__ Juma Shafara Kibekityo
 
 ### 1. Open WorkMate
 
-You can access workmate by entering "https://www.workmate.nonproftinnovations.io/" in your browser to get started
+You can access WorkMate via [MyIntranet](https://raisingthevillage.myintranet.com/) as from the Peal tab as below.
+
+![Step 1 screenshot](./assets/workmate_signin.png)
+
+You can also access workmate by entering "https://www.workmate.nonproftinnovations.io/" in your browser to get started
 
 
 ### 2. Click on Sign in with Google

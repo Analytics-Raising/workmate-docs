@@ -1,15 +1,20 @@
-[project]
+[tool.poetry]
 name = "workmate-docs"
 version = "0.1.0"
-description = ""
-authors = [
-    {name = "jumashafara",email = "jumashafara0@gmail.com"}
-]
+description = "Workmate Documentation Project"
+authors = ["jumashafara <jumashafara0@gmail.com>"]
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-    "mkdocs-material (>=9.6.16,<10.0.0)"
-]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.13"
+mkdocs-material = ">=9.6.16,<10.0.0"
+python-docx = ">=1.1.0"
+markdown = ">=3.5.0"
+pyyaml = ">=6.0.0"
+beautifulsoup4 = ">=4.12.0"
+pillow = ">=10.0.0"
+requests = ">=2.31.0"
 
 
 [build-system]
