@@ -44,7 +44,6 @@ nav:
   - Home: index.md
   - How to Sign In: how_to_signin.md
   - Chats in WorkMate: manage_chats.md
-  - SBCC Message Feedback API: sbcc_api.md
   - Standard Evaluation:
     - Predictions Dashboard: standard_evaluations/predictions_dashboard.md
     - Cluster Trends: standard_evaluations/cluster_trends.md
@@ -52,6 +51,7 @@ nav:
     - Model Metrics: model_interpretability/model_metrics.md
     - Feature Importance: model_interpretability/feature_importance.md
     - Individual Predictions: model_interpretability/individual_prediction.md
+  - SBCC Message Feedback API: sbcc_api.md
   - Support & FAQs: support.md
   - About:
     - Updates: updates.md
