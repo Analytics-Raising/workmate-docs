@@ -4,6 +4,12 @@ repo_url: https://github.com/yourusername/workmate-docs  # Replace with your act
 repo_name: workmate-docs
 edit_uri: edit/main/docs/
 
+# Markdown extensions (required for content tabs)
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
 theme:
   name: material
   palette:
@@ -27,6 +33,7 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - content.tabs.link  # Sync tabs with same label (e.g. all "Python" tabs switch together)
 
 # extra
 extra_css:
@@ -37,6 +44,7 @@ nav:
   - Home: index.md
   - How to Sign In: how_to_signin.md
   - Chats in WorkMate: manage_chats.md
+  - SBCC Message Feedback API: sbcc_api.md
   - Standard Evaluation:
     - Predictions Dashboard: standard_evaluations/predictions_dashboard.md
     - Cluster Trends: standard_evaluations/cluster_trends.md
